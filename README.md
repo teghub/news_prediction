@@ -1,5 +1,5 @@
 # GraphDB based Graph Mining Library for News Prediction and Recommendation
-> **NOTE:** Please refer the paper in the src folder. This project is developed under the CENG488 course at METU and also the project which is funded by TUBITAK.
+> **NOTE:** Please refer the paper. This project is developed under the CENG488 course at METU and also the project which is funded by TUBITAK.
 
 ## Background
 
