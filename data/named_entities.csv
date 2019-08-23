@@ -1,0 +1,9 @@
+neid:ID,:LABEL,name
+0,NamedEntity,ORGANIZATION
+1,NamedEntity,LOCATION
+2,NamedEntity,PERSON
+3,NamedEntity,PERCENT
+4,NamedEntity,MONEY
+5,NamedEntity,DATE
+6,NamedEntity,TIME
+7,NamedEntity,OTHER
